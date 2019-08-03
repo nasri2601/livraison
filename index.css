@@ -16,15 +16,14 @@ font-weight: bold;
 
 ul
 {
-    list-style-type: none;
-
+list-style-type: none;
 font-weight: bold;
 font-size: 1.2em; 
 }
 
 strong
 {
-    text-decoration: underline;
+text-decoration: underline;
 }
 
 img
@@ -48,9 +47,9 @@ font-size: 1.4em;
 
 h1
 {
-font-family: 'Playfair Display', serif;
 font-size: 3em; 
 }
+
 h2::first-letter
 
 {
@@ -60,7 +59,7 @@ color:rgb(163, 33, 16);
 h2
 
 {
-font-family: 'Playfair Display', serif;
+
 text-align: center;
 border-radius: 10px;
 font-size: 2em;
@@ -71,7 +70,7 @@ border: 3px rgb(86, 90, 94) solid;
 
 h3
 {
-font-family: 'Playfair Display', serif;
+
 border-radius: 10px;
 border: 3px rgb(86, 90, 94) solid;   
 text-align: center;
