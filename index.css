@@ -1,6 +1,6 @@
 header
 {
-background-image: url(images/ecran1.jpg);
+background-image: url(images/ecran1.jpg); 
 width: 100%;
 height: 200px;
 display: flex;
